@@ -7,7 +7,7 @@ Trainee Fontend Developer
 I've been learning web development on and off for some years and just landed my first role, having previously worked for 5 years in IT helpdesk support. At the moment I primarily use Vanilla JS and jQuery, but also HTML, CSS, and some SQL on the backend. I'm mainly focusing on upskilling in Node, Next, and React with a view to transitioning into that area eventually.
 
 * 🌍  I'm based in Douglas, Isle of Man
-* 🖥️  See my portfolio at [https://jhobdell.github.io/portfolio/]
+* 🖥️  See my portfolio at [here](https://jhobdell.github.io/portfolio/)
 * ✉️  You can contact me at [phyogaiom@gmail.com](mailto:phyogaiom@gmail.com)
 * 🧠  I'm learning React on Udemy
 * 🤝  I'm open to collaborating on anything
